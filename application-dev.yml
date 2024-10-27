@@ -1,0 +1,4 @@
+user:
+ service:
+   name: login-service
+   data: initial data 
